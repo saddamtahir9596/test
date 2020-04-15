@@ -1,0 +1,181 @@
+{
+    "partners": {
+        "heading": "Partner with the Most Complete Practice Management & EMR Solution in the Industry",
+        "paragraph": "Aesthetic Record is trusted by practices of all sizes to manage patient interactions and day-to-day operations",
+        "logos": [
+            {
+                "image": "images/logo01.png"
+            },
+            {
+                "image": "images/logo02.png"
+            },
+            {
+                "image": "images/logo03.png"
+            },
+            {
+                "image": "images/logo04.png"
+            },
+            {
+                "image": "images/logo05.png"
+            },
+            {
+                "image": "images/logo06.png"
+            },
+            {
+                "image": "images/logo07.png"
+            }
+        ]
+    },
+    "info": {
+        "connects": [
+            {
+                "image": "images/img47.png",
+                "heading": "Connect With Patients",
+                "paragraph": "Online patient booking, automated appointment reminders, and a robust patient portal makes connecting with patients a breeze",
+                "lists": [
+                    {
+                        "list": "Smart Scheduling"
+                    },
+                    {
+                        "list": "Online Patient Booking"
+                    },
+                    {
+                        "list": "Web-Based Patient Portal"
+                    }
+                ],
+                "learnMore": "Learn more",
+                "redirect": "/onlinebooking"
+            },
+            {
+                "image": "images/img48.png",
+                "heading": "Treat Your Patients",
+                "paragraph": "Lightening-fast EMR makes fully compliant documentation, before and after photography, procedure tracking and checkout accurate & efficient",
+                "lists": [
+                    {
+                        "list": "Complete EMR Solution"
+                    },
+                    {
+                        "list": "Mobile Point-of-Sale"
+                    },
+                    {
+                        "list": "Before & After Photos"
+                    },
+                    {
+                        "list": "Patient Wallet, Memberships & Subscription Plans"
+                    },
+                    {
+                        "list": "HIPAA - Compliant TeleHealth Platform"
+                    }
+                ],
+                "learnMore": "Learn more",
+                "redirect": "/onlinebooking"
+            },
+            {
+                "image": "images/img49.png",
+                "heading": "Manage The Clinic",
+                "paragraph": "Advanced reporting, reputation management, commission tracking and inventory controls lead to better decision making and smooth operations",
+                "lists": [
+                    {
+                        "list": "Business Insights"
+                    },
+                    {
+                        "list": "Supply Chain Management"
+                    },
+                    {
+                        "list": "Employee Performance Tracking"
+                    }
+                ],
+                "learnMore": "Learn more"
+            }
+        ],
+        "record": {
+            "image": "images/img50.png",
+            "title": "Aesthetic Record Grows with You",
+            "heading": "This all-in-one software is scalable & customizable.",
+            "btn": "Start Growing Your Practice"
+        }
+    },
+    "customerservices": {
+        "title": "Partnership",
+        "heading": "Customer Service",
+        "columns": [
+            {
+                "image": "images/img51.png",
+                "heading": "Support",
+                "para": "Our Customer Experience Team is always on call to help you succeed with Aesthetic Record"
+            },
+            {
+                "image": "images/img52.png",
+                "heading": "Chat",
+                "para": "Chat with our support team 24/7, & they can help you tackle the biggest challenges as they happen"
+            },
+            {
+                "image": "images/img53.png",
+                "heading": "Train",
+                "para": "Every Aesthetic Record subscription comes with dedicated training sessions conducted by our Sales Engineering Team"
+            },
+            {
+                "image": "images/img54.png",
+                "heading": "Onboard",
+                "para": "Our Sales Engineers partner with you to build your account, onboard your staff, and assist with data migration from your existing system"
+            }
+        ]
+    },
+    "stats": {
+        "title": "Impact",
+        "heading": "Our statistics",
+        "cols": [
+            {
+                "image": "images/img55.png",
+                "heading": "+4.0",
+                "number": "thousand",
+                "type": "Users"
+            },
+            {
+                "image": "images/img56.png",
+                "heading": "4.8",
+                "number": "of 5",
+                "type": "Satisfaction Rating"
+            },
+            {
+                "image": "images/img57.png",
+                "heading": "1.25",
+                "number": "Million",
+                "type": "Patients"
+            },
+            {
+                "image": "images/img58.png",
+                "heading": "140",
+                "number": "Thousand",
+                "type": "POS Transactions"
+            }
+        ]
+    },
+    "homeInfo": {
+        "heading": "Safely Access Your Information Anytime, Anywhere",
+        "btn1": "Schedule Demo",
+        "btn2": "Start Free Trial",
+        "cols": [
+            {
+                "image": "images/cloud.png",
+                "title": "Cloud-Based",
+                "para": "Our AWS, cloud-based solution means you can use Aesthetic Record from anywhere, no software required"
+            },
+            {
+                "image": "images/shake-hands.png",
+                "title": "Reliable",
+                "para": "With a 99.99% uptime, our system is always available when you need it! We are constantly improving to make things easier"
+            },
+            {
+                "image": "images/leafs.png",
+                "title": "Paperless",
+                "para": "Say goodbye to paper and reduce your risk of damaged, lost or misplace files. You’ll save time and money reducing errors with our technology platform"
+            },
+            {
+                "image": "images/lock.png",
+                "title": "Private & Secure",
+                "para": "We meet all HIPAA and GDPR Laws, and every data transmission is encrypted using SSL protection"
+            }
+        ]
+    }
+}

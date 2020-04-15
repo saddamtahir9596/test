@@ -1,0 +1,136 @@
+{
+    "ourteams": [
+        {
+            "image": "images/img18.jpg",
+            "name": "Justin Harper",
+            "designation": "Founder & CEO ",
+            "readBio": "Read bio",
+            "detailName": "Justin Harper, MD",
+            "detailedRole": "Dr. Justin Harper is an Aesthetic Physician and healthcare innovator with a diverse background encompassing plastic surgery, dermatology, and medical technology. He founded Juvly Aesthetics in Columbus, OH in 2014, and in five years has grown a single practice to 12 locations across 5 states with yearly revenues exceeding $16M. Under Dr. Harper’s leadership, Juvly has become the largest independently-owned Medical Spa chain in the Aesthetics industry and a center of excellence for technique and thought leadership. In addition to his work at Juvly, Dr. Harper is actively involved in designing new studies and participating in ongoing clinical research across the industry. Dr. Harper is often called upon for his expertise in both clinical and business operations, serving as an industry consultant and media spokesman for key aesthetic manufacturers. Additionally, he enjoys teaching and training others and has been a National Trainer & Advisor for Allergan & Galderma (GAIN) for several years. In 2019, he founded Aesthetic Next, a multi-disciplinary, immersive industry conference in Dallas, TX, that focuses on clinical applications, practice management, and technology enabled growth for Aesthetic practices. Known for it’s international faculty lineup, Aesthetic Next has quickly become a favorite among those looking for a unique experience to advance their technical skills. As a lifelong technology innovator, Dr. Harper quickly identified a major gap in medical spa management software, and in 2016 he founded Aesthetic Record, an end-to-end EMR & Practice Management software that brings the sophistication of data-driven operations to aesthetic practices of all sizes. With over 300 features including a complete clinical photography suite, fully integrated revenue generation platform, and advanced business insights, this technology has grown at an explosive rate both in size and capabilities. AR now powers over 900 practices & 3500 users across 9 countries with no signs of slowing. Now with offices in Columbus, OH and Dallas, TX, Dr. Harper continues to drive the company toward innovative solutions and industry disruption. ",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img22.jpg"
+        },
+        {
+            "image": "images/img19.jpg",
+            "name": "Tiphany Lopez",
+            "designation": "Chief Growth Officer ",
+            "readBio": "Read bio",
+            "detailName": "Tiphany Lopez, PhD, MBA",
+            "detailedRole": "Tiphany serves as the Chief Growth Officer at Aesthetic Record where she oversees the Sales, Training & Technology Teams in Dallas, TX, Columbus, OH and Mohali, India. In addition, she works closely with Industry Partners to expand the digital footprint of AR with key 3rd party platform integrations and future-focused feature developments to serve the growing AR userbase. In the last year, she’s led Aesthetic Record to triple digit growth in both its user base and annual recurring revenue, more than doubling the sales & training teams to meet the increased demand. While technology innovation is her passion, she’s spent the last 13 years working with Fortune 500 companies to standardize their “people intensive” operations from front-line associates to C-Suite executives. She’s worked in the trenches, scaling business operations for companies like Walmart, Inc., Dillard’s, Tyson Foods, Proctor & Gamble, and Nestle among others. Tiphany led a best-in-class training organization in the Aesthetic Industry where she was well known for constant innovation- building technology platforms to assist in injection-related education and creating programs that redefined the learning experience for nearly 15,000 clinicians per year. Along with Dr. Justin Harper, she co-directs Aesthetic Next, a multi-disciplinary, immersive industry conference in Dallas, TX, that focuses on clinical applications, practice management, and technology enabled growth for Aesthetic practices. Known for its international faculty lineup, Aesthetic Next has quickly become a favorite among those looking for a unique experience to advance their technical skills. ",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img21.jpg"
+        },
+        {
+            "image": "images/img20.jpg",
+            "name": "Victoria Adrian",
+            "designation": "Director of Sales ",
+            "readBio": "Read bio",
+            "detailName": "Victoria Adrian",
+            "detailedRole": "Victoria started with Aesthetic Record in 2017 as it’s first full-time employee, and in the last three years, she has assumed the role of Director of Sales where she leads a team of 14 sales and support professionals, and more than 4000 users. Her background in software coupled with her love of the Aesthetic industry has helped to transition Aesthetic Record from a small startup to an all inclusive, invaluable platform with more than 1000 practices participating globally. Victoria has been a key advisor in the development of the software, translating customer feedback, and preferences into action. She’s actively involved in everything from troubleshooting software concerns to visiting accounts and personally onboarding new users",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img23.jpg"
+        },
+        {
+            "image": "images/img08.jpg",
+            "name": "Gannesh Kompella",
+            "designation": "Director of Technology ",
+            "readBio": "Read bio",
+            "detailName": "Ganesh Kompella",
+            "detailedRole": "Victoria started with Aesthetic Record in 2017 as it’s first full-time employee, and in the last three years, she has assumed the role of Director of Sales where she leads a team of 14 sales and support professionals, and more than 4000 users. Her background in software coupled with her love of the Aesthetic industry has helped to transition Aesthetic Record from a small startup to an all inclusive, invaluable platform with more than 1000 practices participating globally. Victoria has been a key advisor in the development of the software, translating customer feedback, and preferences into action. She’s actively involved in everything from troubleshooting software concerns to visiting accounts and personally onboarding new users. ",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img32.jpg"
+        },
+        {
+            "image": "images/img09.jpg",
+            "name": "Jazmenne KinCannon",
+            "designation": "Senior Sales Specialist ",
+            "readBio": "Read bio",
+            "detailName": "Jazmenne KinCannon",
+            "detailedRole": "Jazmene began working in Aesthetics in 2017 as a Patient Coordinator for an Ohio-based Plastic Surgeon. She fell in love with the industry, and joined Aesthetic Record with first-hand experience on the potential pitfalls and practice benefits that come from using an EMR system. Jazmene understands the changing dynamics of a busy practice, and she takes pride in providing a very genuine customer service experience, ensuring each client receives outstanding support. Her passion to connect with AR Users on a very relatable level and to guide each one through an impactful training journey. When Jazmene isn't busy doing her most important job as a mother to two great kids, she enjoys attending music festivals & traveling.",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img30.jpg"
+        },
+        {
+            "image": "images/img10.jpg",
+            "name": "Kelsey Orms",
+            "designation": "Senior Sales Specialist ",
+            "readBio": "Read bio",
+            "detailName": "Kelsey Orms",
+            "detailedRole": "Kelsey, an Account Manager at Aesthetic Record, works with practices and businesses across the globe in providing a patient to practice experience. With over 5 years in the Medial Aesthetics industry, Kelsey understands what practices in the industry need, and how Aesthetic Record can facilitate that. She prides herself in providing extraordinary customer service, treating every client with care, consideration and respect. Her passion for this industry and her communication skills make her a perfect fit for her role. She ensures every client receives VIP customer service experiences and support.Kelsey has previously worked at practices in multiple states across the U.S. and holds a dual BA in Strategic Communications and Marketing from Grand Canyon University. When Kelsey is not working on all things Aesthetic Record, you can find her traveling, playing with her 2 Siberian Huskies and watching Ohio State football. Go Bucks!",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img26.jpg" 
+        },
+        {
+            "image": "images/img11.jpg",
+            "name": "Kennith Powell",
+            "designation": "Senior Sales Engineer ",
+            "readBio": "Read bio",
+            "detailName": "Kenneth Powell",
+            "detailedRole": "Kenneth Powell holds a Bachelors of Arts from The Ohio State University with major in Strategic Communications. As a Senior Sales Engineer at Aesthetic Record, he trains new account users on how to navigate through the system, including account settings, inventory, and the provider app. Not only does Kenneth assist aesthetic/health professionals to configure their accounts for success, he’s also a big part of the AR introduction and training video series where he personally welcomes each new user! In addition to onboarding new users, Kenny troubleshoots software issues and users concerns to ensure all systems are operational both for clients and internal employees. Kenneth also enjoys cooking and fashion and works out of the Columbus, OH AR office.",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img25.jpg" 
+        },
+        {
+            "image": "images/img12.jpg",
+            "name": "Vivienne Echendu",
+            "designation": "Vender Relations Manager ",
+            "readBio": "Read bio",
+            "detailName": "Vivienne Echendu",
+            "detailedRole": "It didn’t take long for Vivienne to grow into her cowboy boots after emigrating from Nigeria to Texas. Ever since she was a little girl, Vivienne has always been enamored with the field of STEM. She graduated with honors from Prairie View A&M University with a Bachelors of Science in Biology and a minor in Chemistry. Vivienne has had the opportunity to conduct research in genetics, oncology, biochemistry, bioinformatics, and IRB and non-IRB clinical trials.Before joining the vibrant Aesthetic Record team, she held brand management and business development roles in retail and senior home health care, respectively. Now as the Vendor Relations Specialist at Aesthetic Record, Vivienne is excited to bridge her love for medicine with her passion for people every day. Vivienne is inspired by God’s unconditional love for her and will never get tired of asking Him for guidance. She invites challenges as a way to think outside the box and considers herself a lifelong student of life because, when you stop learning, you stop growing. What is she up to right now? Probably cooking Jollof rice with country music playing in the background.",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img24.jpg" 
+        },
+        {
+            "image": "images/img13.jpg",
+            "name": "JT Cothran",
+            "designation": "Business Process Specialist ",
+            "readBio": "Read bio",
+            "detailName": "JT Cothran",
+            "detailedRole": "Since 2008, JT has been at the helm of his own start ups. It began with the creation of his family’s commercial maintenance, demolition and restoration company as he was leaving high school. But before heading off to college, where he would later graduate from Dallas Baptist University with a degree in Music Business and a minor in Music History, he launched his own media and production company.With several entities under the banners of Down Castle Records & Mobile Productions, JT spent most of this century’s second decade working in the recording and live production/performance industry. Throughout that time, he put nearly two thousand live shows under his belt along with countless recording sessions that grew his studio into one of the DFW area’s most popular for local artist. In 2018, JT left the live production scene to concentrate of the functions of his studio. The Warehouse, until late 2019 when he joined the AR team. He focuses on various aspects of multi-media production for Aesthetic Record from producing training videos to building the show flow for Aesthetic Next. He’s also an avid Dallas Stars fan and an uber competitive hockey player in his own right, having spent most of his life on the ice!",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img27.jpg" 
+        },
+        {
+            "image": "images/img14.jpg",
+            "name": "Isabelle McDowell",
+            "designation": "Mid-Market Sales Specialist ",
+            "readBio": "Read bio",
+            "detailName": "Isabelle McDowell",
+            "detailedRole": "Isabelle has a diverse background is sales, aesthetics and customer service. Prior to joining Aesthetic Record, she held positions as a wholesale apparel account manager and advertising account coordinator. Additionally, she has been a licensed esthetician since 2011. Since then, she has worked at various medical spas as a provider as well as in front desk operations. She earned her Bachelor’s degree in Public Relations and Psychology from Southern Methodist University and resides in Dallas.",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img29.jpg" 
+        },
+        {
+            "image": "images/img15.jpg",
+            "name": "Catherine McCauley",
+            "designation": "Sales Engineer ",
+            "readBio": "Read bio",
+            "detailName": "JT Cothran",
+            "detailedRole": "Catherine brings over 20 years of Sales and Account Management experience in the Pharmaceutical, Educational and Business Sectors. She graduated from the University of North Texas with a Bachelor of Business Administration. The great loves of her life are her three wonderful children and two adorable cats. When she is not working she enjoys spending time with friends and family, and walking and reading.",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img28.jpg" 
+        },
+        {
+            "image": "images/img16.jpg",
+            "name": "Nick Whatton",
+            "designation": "Sales Engineer ",
+            "readBio": "Read bio",
+            "detailName": "Nick Whatton",
+            "detailedRole": "Nick graduated with a Bachelor's Degree in Recreation & Sport Management from the University of North Texas. Prior to coming to Aesthetic Record, Nick was a Territory Sales Manager at BSN Sports where he worked with Municipalities, YMCA's and Boys and Girls Club serving their sporting equipment, facility, park and uniform needs. He worked closely with vendors such as Nike, Under Armour and Bison selling both Park and Recreation Equipment needs for league sports. Before joining the private sector, Nick spent 8 years with the United States Marine Corps where he served as a Crew Chief for Amphibious Operations.",
+            "seeLeadership": "See All Leadership",
+            "backArrows": "images/arrows.svg",
+            "detailedImage": "images/img31.jpg" 
+        }
+    ]
+}

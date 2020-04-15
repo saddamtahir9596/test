@@ -1,0 +1,29 @@
+{
+    "brands": {
+        "heading": "Connect",
+        "para": "Aesthetic Record Makes It Easy to Connect with Your Patients Anytime, Anywhere",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial"
+    },
+    "types": [
+        {
+            "image": "images/img44.png",
+            "heading": "Online Patient Booking",
+            "para": "You can be in touch with patients around the clock. Two-way communication makes it easy to manage changing schedules, and capturing credit information reduces cancellations.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img45.png",
+            "heading": "Smart Scheduling",
+            "para": "You set the hours, appointment durations, equipment, and available providers, and our smart booking system ensures you never have to deal with double-booking or inefficient scheduling again.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img46.png",
+            "heading": "Web-Based Patient Portal",
+            "para": "Patients can book appointments, access pre-appointment information, fill out questionnaires and view post appointment instructions. Adding a membership or viewing the patient wallet can be done from anywhere in the Patient Portal!",
+            "learn": "Learn more"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "onlineBooking": {
+        "images": "images/icon-price.png",
+        "heading": "Online Booking",
+        "para": "From 24-7 online scheduling to automated appointment reminders, you can be in touch with patients around the clock. Two-way communication makes it easy to manage changing schedules, and capturing credit information reduces cancellations",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img64.svg"
+    },
+    "emr": {
+        "images": "images/icon-price.png",
+        "heading": "Complete EMR Solution",
+        "para": "Providers can record procedures and treatment markings with full, customizable and compliant documentation all from their iPad. Simultaneously, they can deduct units from inventory, create sales invoices, send charts to a Medical Director, and start the clock for patient follow-up and surveys",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img67.png"
+    },
+    "telehealth": {
+        "images": "images/icon-price.png",
+        "heading": "HIPAA-Compliant Telehealth Platform",
+        "para": "Conduct HIPAA-compliant, virtual consultations and patient exams with our telehealth-enabled platform.  Patients can select from virtual or in-person appointments during online booking, and with our virtual terminal, collecting payment is a breeze. Upon completion, the full transcript of the session is stored directly in the patient's profile so you can apply the appropriate predictive procedure notes as needed.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img63.svg"
+    },
+    "beforeafterpics": {
+        "images": "images/icon-price.png",
+        "heading": "Before & After Photo Management",
+        "para": "The Aesthetic Record app makes it easy to capture high-quality before and after photos and videos and place them directly in the patient’s chart. As their treatment plan continues, you can create side-by-side comparisons with earlier visits to show their progress.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img66.svg"
+    },
+    "smartscheduling": {
+        "images": "images/icon-price.png",
+        "heading": "Smart Scheduling",
+        "para": "You set the hours, appointment durations, equipment, and available providers, and our smart booking system ensures you never have to deal with double-booking or inefficient scheduling again. Edit or cancel appointments from the convenience of the Control Center or the Provider App",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img60.svg"
+    },
+    "patientPortal": {
+        "images": "images/icon-price.png",
+        "heading": "Patient Portal",
+        "para": "Patients can easily access pre-appointment information, fill out questionnaires and view post-appointment instructions from anywhere at any time with our Patient Portal. They can  also view their invoices and receipts and keep track of their treatments over time",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img68.svg"
+    },
+    "mobilepos": {
+        "images": "images/icon-price.png",
+        "heading": "Mobile Point-of-Sale",
+        "para": "Providers can create invoices and charge patients right in the room. Once you load your inventory, prices, and discounts into Aesthetic Record, it takes less than a minute to check-out. Our POS provides you with advanced sales and inventory reporting, so you know important metrics in real-time.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img69.svg"
+    },
+    "patientMember": {
+        "images": "images/icon-price.png",
+        "heading": "Patient Wallet, Membership & Subscription Plans",
+        "para": "The patient wallet takes the headache out of managing packages and event specials, pre-purchases and discounts so you never lose track over time. Multiple membership programs are simple to execute- they can be easily accessed by the provider in the room, right from the POS. And, subscription plans turn ongoing treatment options into monthly visits and predictable  payments.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img70.svg"
+    },
+    "businessInsights": {
+        "images": "images/icon-price.png",
+        "heading": "Business Insights",
+        "para": "Aesthetic Record’s all-in-one solution allows you to pull reports that help you make critical business decisions. Whether it’s measuring sales or cost of goods sold, managing patients, tracking discounts, or controlling inventory levels, Business Insights can do it all.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img61.svg"
+    },
+    "supplyChain": {
+        "images": "images/icon-price.png",
+        "heading": "Supply Chain Management",
+        "para": "You can conveniently create purchase orders, set product par levels and automate ordering from the Control Center.  Standardizing your inventory procedures is a cinch with detailed stock reconciliation including expired, sampled and damaged product.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img65.svg"
+    },
+    "ept": {
+        "images": "images/icon-price.png",
+        "heading": "Employee Performance Tracking",
+        "para": "You can track employee productivity by measuring average sales and patient satisfaction scores, booked appointment percentages, and product usage. From our time clock to commission and tip tracking, we’ve created a seamless link between employee performance and compensation.",
+        "innerImage": "images/icon-dark.png",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial",
+        "fullImage": "images/icon-pricing.png",
+        "anotherImage": "images/img62.png"
+    }
+
+}

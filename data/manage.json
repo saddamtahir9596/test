@@ -1,0 +1,53 @@
+{
+    "brand": {
+        "heading": "Manage",
+        "para": "Manage Your Practice from End-to-End in the Aesthetic Record Control Center",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial"
+    },
+    "partners": {
+        "heading": "Partner with the Most Complete Practice Management & EMR Solution in the Industry",
+        "para": "Share real-time information between Aesthetic Record and your CRM to simplify lead tracking and marketing campaigns.",
+        "images": [
+            {
+                "img": "images/logo08.png"
+            },
+            {
+                "img": "images/logo09.png"
+            },
+            {
+                "img": "images/logo10.png"
+            },
+            {
+                "img": "images/logo11.png"
+            },
+            {
+                "img": "images/logo12.png"
+            },
+            {
+                "img": "images/logo13.png"
+            }
+        ]
+    },
+    "infoBlocks": [
+        {
+            "image": "images/img35.png",
+            "heading": "Business Insights",
+            "para": "Aesthetic Record’s all-in-one integration allows you to pull 100s of reports that help you make critical business decisions. Whether it’s measuring sales or profit, managing patients, tracking discounts, or controlling inventory levels, the Control Center can do it all.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img36.png",
+            "heading": "Supply Chain Management",
+            "para": "You can conveniently create purchase orders, set product par levels and automate ordering from the Control Center. Standardizing you inventory procedures is a cinch with detailed stock reconciliation including expired, stamped and damaged product.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img37.png",
+            "heading": "Employee Performance Tracking",
+            "para": "You can track employee productivity by measuring average sales and patient satisfaction scores, booked appointment percentages and product usage. From our time clock to commission and tip tracking, we’ve created a seamless link between employee performance and compensation.",
+            "learn": "Learn more"
+        }
+    ]
+}

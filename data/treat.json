@@ -1,0 +1,41 @@
+{
+    "brand": {
+        "heading": "Treat",
+        "para": "Say Goodbye to Paper and Hello to More Time, so You Can Get Back to Treating Your Patients",
+        "btn": "Schedule Demo",
+        "btn1": "Start Free Trial",
+        "notes": "No Credit Card Required, 14 Day Free Trial"
+    },
+    "records": [
+        {
+            "image": "images/img39.png",
+            "heading": "Complete EMR Solution",
+            "para": "Providers can record procedures and treatment marking with full, customizable and compliant documentation all from their iPad. Electronic-enabled prescribing allows provider to easily send an RX directly to the pharmacy. Simultaneously, they can deduct units from inventory, autofill predictive notes, send charts to a  Medical Director, and start the clock for patient follow-up and surveys.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img40.png",
+            "heading": "Before & After Photo Management",
+            "para": "The AR Clinical Photography Suite makes it easy to capture and upload high-resolution before and after photos & videos directly to the patient’s chart. As their treatment plan continues, side-by-side comparison tools showcase the patient’s progress from earlier visits.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img41.png",
+            "heading": "Mobile Point-of-Sale",
+            "para": "Providers can create invoices and charge patients from the convenience of the treatment room.  Once you load inventory, prices, and discounts into Aesthetic Record, it takes less than a minute to check-out.  As part of our Business Suite, the mobile POS connects you to real-time practice metrics like sales and inventory reporting.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img42.png",
+            "heading": "Patient Wallet & Multiple Memberships",
+            "para": "Patient wallets take the headache out of managing packages, event specials, pre-purchases and discounts so you never lose track over time. Multiple memberships and subscription-based treatment plans are simple to execute and easily accessed right from the patient’s chart.",
+            "learn": "Learn more"
+        },
+        {
+            "image": "images/img43.png",
+            "heading": "Telehealth Plaform",
+            "para": "Conduct HIPAA-compliant, virtual consultations and patient exams with our telehealth-enabled platform.  Patients can select from virtual or in-person appointments during online booking, and with our virtual terminal, collecting payment is a breeze. Upon completion, the full transcript of the session is stored directly in the patient's profile so you can apply the appropriate predictive procedure notes as needed.",
+            "learn": "Learn more"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "intro": {
+        "bannerImage": "images/banner.jpg",
+        "bannerLeafImage": "images/icon-leaf.png",
+        "bannerSmallLeafImage": "images/icon-leaf-small.png",
+        "heading": "About Us",
+        "detailFirst": "Aesthetic Record began out of necessity in 2014 when our Founder & CEO could not find an aesthetics-focused EMR that was affordable, scalable, and effective as his new practice began to grow. Fast forward to 2017, and what started out as a custom platform became commercially available to other aesthetic practitioners. Over the last several years, our team has invested hundreds of thousands of hours in development to build an end-to-end system that can manage the complex daily operations of an Aesthetic clinic. Those few key features have grown into a robust solution that powers practices of all kinds from single locations to large franchises and facilitates patient interactions both in-person and virtually.",
+        "detailSecond": "One of our guiding principles at Aesthetic Record is that no matter the size, HIPAA-compliant documentation, clinical photography and inventory management should be available to everyone. As our feature list has continued to evolve, we’ve remained committed to keeping our system affordable by providing tremendous value at a price point every clinic can afford. We personally onboard each of our customers so we can ensure they have the tools they need to maximize each component of Aesthetic Record. We listen very closely to the needs of the marketplace and maintain a steady stream of innovation to meet the changing demands of our industry. Our customers are their patients are at the heart of everything we do, and we are greatful that so many clinics around the world trust Aesthetic Record to power their operations everyday."
+    },
+    "aboutBlock": {
+        "address": [
+            {
+                "heading": "Aesthetic Record dallas, Tx Headquarters",
+                "address": "14555 Dallas Parkway Suite 100-369 Dallas, TX 75354",
+                "image": "images/img06.jpg"
+            },
+            {
+                "heading": "Aesthetic Record Columbus, oh office",
+                "address": "40 West Gay Street Columbus, OH 43215",
+                "image": "images/img07.jpg"
+            }
+        ],
+        "bigLeafImage": "images/icon-leaf-big.png"
+    }
+}
